@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C/1.0.0": {
+        "runtime": {
+          "UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\bin\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.exe
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\bin\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.deps.json
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\bin\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.runtimeconfig.json
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\bin\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.dll
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\bin\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.pdb
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.AssemblyInfoInputs.cache
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.AssemblyInfo.cs
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.csproj.CoreCompileInputs.cache
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.dll
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\refint\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.dll
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.pdb
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.genruntimeconfig.cache
+D:\Rayen\Kuliah\Semester 2\Pbo\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C\obj\Debug\net8.0\ref\UTS_Pbo_3005_Mochammad Ryan Alviansyah_Kelas C.dll
